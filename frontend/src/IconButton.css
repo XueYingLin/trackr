@@ -1,0 +1,9 @@
+.IconButton {
+  border: none;
+  background: none;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: pointer;
+  padding: 0px;
+}

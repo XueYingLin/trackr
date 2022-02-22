@@ -1,0 +1,26 @@
+.Day {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.Day-Header {
+  margin: 12px 0px 12px;
+  font-size: 5vw;
+}
+
+.Day-Header button {
+  border: none;
+  background: none;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+.Day-Title {
+  display: inline-block;
+  text-align: center;
+  min-width: 50vw;
+  margin: 0px 5px 0px 5px;
+}

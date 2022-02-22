@@ -1,0 +1,10 @@
+.ExpectationRow {
+  font-size: 4.5vw;
+  background-color: rgba(90, 154, 31, 0.543);
+  padding: 20px 10px 20px 10px;
+  border-bottom: 1px solid white;
+}
+
+.ExpectationRow-Controls {
+  float: right;
+}

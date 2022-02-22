@@ -1,0 +1,28 @@
+.PersonPicker button {
+  border: none;
+  background: none;
+  font-size: inherit;
+  cursor: pointer;
+  font-family: inherit;
+  color: inherit;
+}
+
+.PersonTile-Photo {
+  width: 8vw;
+  border-radius: 100px;
+  border: 3px solid gray;
+}
+
+.PersonTile-Selected .PersonTile-Photo {
+  border: 3px solid white;
+}
+
+.PersonPicker {
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.112);
+  padding: 8px 0px 8px 0px;
+  display: flex;
+  justify-content: center;
+}
